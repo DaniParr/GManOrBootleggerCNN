@@ -146,7 +146,7 @@ if __name__ == "__main__":
     #     print(f"Epoch: {epoch} loss is {loss.item()}")
 
     # with open('model_state.pt', 'wb') as f:
-    #     save(training.clf.state_dict(), f) 
+    #     save(training.clf.state_dict(), f)
 
 # Validation loop
     # model.eval()
